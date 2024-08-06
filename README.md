@@ -10,5 +10,6 @@ estou aprendendo a usar o java script
 
 00001075531883sp@al.educacao.sp.gov.br
 
-![](https://www.google.com/imgres?q=gif&imgurl=https%3A%2F%2Fi.gifer.com%2FXOsX.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fpt%2FXOsX&docid=jJUO88KN0qGTSM&tbnid=6wAj2BhG1MUFWM&vet=12ahUKEwiHiJHGyOCHAxWjLrkGHRy1J8YQM3oECBYQAA..i&w=383&h=480&hcb=2&ved=2ahUKEwiHiJHGyOCHAxWjLrkGHRy1J8YQM3oECBYQAA)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fveja.abril.com.br%2Ftecnologia%2Fgifs-animados-sao-uma-industria-giphy-capta-us-72-milhoes&psig=AOvVaw1XHD9dyBbqWcbXCHbuCYva&ust=1723040602629000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNCjlczI4IcDFQAAAAAdAAAAABAK)
+
 
