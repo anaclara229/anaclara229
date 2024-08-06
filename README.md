@@ -10,7 +10,7 @@ estou aprendendo a usar o java script
 
 00001075531883sp@al.educacao.sp.gov.br
 
-![](![image](https://github.com/user-attachments/assets/3f6de55f-ae98-4d02-8040-e3124bae957c)
-)
+![]((![image](https://github.com/user-attachments/assets/3f6de55f-ae98-4d02-8040-e3124bae957c))
+
 
 
